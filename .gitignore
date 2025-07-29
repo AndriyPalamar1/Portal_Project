@@ -1,0 +1,42 @@
+# Unity Generated
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+
+# VS / JetBrains
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS
+.DS_Store
+*.swp
+
+# Logs
+*.log
+
+# Crash logs
+sysinfo.txt
+
+# Auto-generated
+ExportedObj/
+*.apk
+*.aab
+
+# Unity Cache
+*.unitypackage
+
+# Rider
+.idea/
+*.sln.iml
